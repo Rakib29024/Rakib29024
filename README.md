@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 --
 
-[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://m.youtube.com/watch?v=mSX1p-HvacY&t=3s)
+[![SC2 Video](https://github.com/Rakib29024/Rakib29024/blob/main/alena-aenami-valakut-exploration-1k.jpg)](https://m.youtube.com/watch?v=mSX1p-HvacY&t=3s)
 
 </div>
 
