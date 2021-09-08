@@ -13,9 +13,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
 -->
-
-
 
 <div align="center">
 
@@ -59,9 +59,7 @@ Here are some ideas to get you started:
 
 --
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
-
-
+[![SC2 Video](https://img.youtube.com/vi/--b-9HrKK6w/0.jpg)](https://m.youtube.com/watch?v=mSX1p-HvacY&t=3s)
 
 </div>
 
