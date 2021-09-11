@@ -11,7 +11,7 @@
 
 <!--  -->
 
-<h2><img src = "https://media3.giphy.com/media/mhXT9e4kDNndY1PjOE/giphy.gif?cid=ecf05e47kmpqs09urllpb3k4i9gleck3uyi96g6uuksarhyz&rid=giphy.gif&ct=g" height="32px">  About Me </h2>
+<h2><img src = "https://master.peoplentech.net/upload/announcement/our-team_file626111827.jpg" height="22px">  About Me </h2>
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
