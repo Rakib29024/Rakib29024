@@ -1,16 +1,18 @@
 ![]()
 <img src="blood.gif" width="100%"/>
 
-<div align="center">
+  ## ⚡ Over View
 
+<div align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rakib29024&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rakib29024's Github Stats">
 
   </br>
   </br>
   <i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-
+</div>
 
   ## ⚡ Technologies
+<div align="center">
 
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
   ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
@@ -30,7 +32,10 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rakib29024&layout=)](https://github.com/Rakib29024/github-readme-stats)
 
 </div>
+
+  ## ⚡ Youtube Video
 <p align="center">
+
   <a href="https://m.youtube.com/watch?v=mSX1p-HvacY&t=3s" target="_blank">
     <img src="r1.png" width="200px" alt="laravel repository pattern"/>
   </a>
@@ -39,6 +44,7 @@
   </a>
 </p>
 
+  ## ⚡ Social Media
 <p align="center">
   <a href="https://twitter.com/rakibHa63684394" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
