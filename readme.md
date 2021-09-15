@@ -6,20 +6,18 @@
 <!--  -->
 <p align="center" width="100%">
     <img width="53%" src="https://github-readme-stats.vercel.app/api?username=Rakib29024&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Rakib29024's Github Stats">
-    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib29024&" alt="rakib29024" />
+    <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib29024&" alt="rakib29024"/>
 </p>
-
-<!--  -->
 
 <h2><img src = "https://master.peoplentech.net/upload/announcement/our-team_file626111827.jpg" height="22px">  About Me </h2>
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+  <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
 
-- 🔭  Diligent programmer with around 2 years of experience
-- 👯  Laravel is my core coding framework for PHP.
-- 🌱  I’m currently learning Nuxt js 
-- 💬  Code high-performance programs in Laravel with the standard way of building applications using SDLC, DRY, and SOLID Design Principles.
+  - 🔭  Diligent programmer with around 2 years of experience
+  - 👯  Laravel is my core coding framework for PHP.
+  - 🌱  I’m currently learning Nuxt js 
+  - 💬  Code high-performance programs in Laravel with the standard way of building applications using SDLC, DRY, and SOLID Design Principles.
 
 
 
