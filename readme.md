@@ -1,7 +1,7 @@
 ![]()
 <img src="blood.gif" width="100%"/>
 
-  ## ⚡ Overview
+  ## <img src="https://emojis.slackmojis.com/emojis/images/1471045839/793/computerrage.gif?1471045839" width="30"/> Overview
 
 <!--  -->
 <p align="center" width="100%">
@@ -9,14 +9,13 @@
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=rakib29024&" alt="rakib29024"/>
 </p>
 
-<h2><img src = "https://master.peoplentech.net/upload/announcement/our-team_file626111827.jpg" height="22px">  About Me </h2>
+<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>  About Me </h2>
 
   <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg"/>
 
 
   - 🔭  Diligent programmer with around 2 years of experience
   - 👯  Laravel is my core coding framework for PHP.
-  - 🌱  I’m currently learning Nuxt js 
   - 💬  Code high-performance programs in Laravel with the standard way of building applications using SDLC, DRY, and SOLID Design Principles.
 
 
@@ -51,7 +50,7 @@
 
 </div>
 
-  ## ⚡ Youtube video
+  ## <img src="https://emojis.slackmojis.com/emojis/images/1487135004/1757/youtube.png?1487135004" width="30"/> Youtube video
 <p align="center">
 
   <a href="https://m.youtube.com/watch?v=mSX1p-HvacY&t=3s" target="_blank">
@@ -62,7 +61,8 @@
   </a>
 </p>
 
-  ## ⚡ Conect with me
+  ## <img src="https://emojis.slackmojis.com/emojis/images/1622005997/41345/network.png?1622005997" width="30"/> Conect with me
+  
 <p align="center">
   <a href="https://twitter.com/rakibHa63684394" target="_blank">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&color=071A2C" alt="Twitter"/>
