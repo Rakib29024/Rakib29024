@@ -13,8 +13,9 @@
 
   <img width="100%%" alt="Github" src="p2.png"/>
 
-- 🔭 Diligent programmer with around 2 years of experience
+- 🔭 Diligent programmer with around 5  years of experience
 - 👯 Laravel is my core coding framework for PHP & Nuxt for VueJS.
+- Flexible with Node.js and ASP.NET frameworks.
 - 💬 Code high-performance programs in Laravel with the standard way of building applications using SDLC, DRY, and SOLID Design Principles.
 
 ## <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> Technologies
