@@ -1,63 +1,86 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=👋+Hey!+I'm+Rakib+Hassan;💻+Full-Stack+Developer;🚀+Open+Source+Enthusiast" alt="Typing SVG" />
-</h1>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Rakib Hassan</h1>
+<h3 align="center">🚀 Full-Stack Developer | Open Source Enthusiast | Tech Explorer</h3>
 
 <p align="center">
-  <img src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp" width="500" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif">
 </p>
 
 ---
 
-## 🚀 About Me
-- 👀 I’m a programmer who thinks outside the box  
-- 🌱 Currently learning **AI-powered applications**  
-- 💞️ Looking to collaborate on **open-source AI & full-stack projects**  
-- 📫 Reach me at: **rakib@example.com**  
-
----
-
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Detailed Overview)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rakib2062&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib2062&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rakib2062&show_icons=true&theme=radical&count_private=true&include_all_commits=true" height="200">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib2062&theme=radical" height="200">
 </p>
 
 ---
 
-## 📈 Activity & Commit History
+## 🏆 Achievements & Trophies
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib2062&theme=tokyo-night&hide_border=true&area=true" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=rakib2062&theme=radical&column=7" height="150">
 </p>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Commit History & Activity Graphs
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rakib2062&theme=tokyonight&row=1&column=7&margin-w=10&margin-h=10" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rakib2062&theme=react-dark" height="300">
 </p>
 
 ---
 
-## 📂 Top Languages
+## 🔍 Detailed Language Usage
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib2062&layout=compact&theme=tokyonight&hide_border=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib2062&layout=donut-vertical&theme=radical&langs_count=10" height="300">
 </p>
 
 ---
 
-## 🖥️ Tech Stack
+## ⏱ Coding Time (WakaTime)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,laravel,vue,nodejs,react,python,java,mysql,mongodb,git,docker,linux" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakib2062&layout=compact&theme=radical" height="250">
 </p>
 
 ---
 
-## 📝 Recent Projects
+## 🗓 Commit per Day / Week / Month
 <p align="center">
-  <a href="https://github.com/rakib2062/project1">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+1" />
-  </a>
-  <a href="https://github.com/rakib2062/project2">
-    <img src="https://via.placeholder.com/300x150.png?text=Project+2" />
-  </a>
+  <img src="https://github-contributor-stats.vercel.app/api?username=rakib2062&limit=5&theme=radical&combine_all_yearly_contributions=true" height="250">
+</p>
+
+---
+
+## 🚀 Contribution Stats by Year
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=rakib2062" height="200">
+</p>
+
+---
+
+## 📅 Hourly & Weekly Commit Patterns
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rakib2062/rakib2062/master/profile-3d-contrib/profile-night-rainbow.svg" height="350">
+</p>
+
+---
+
+## 🌍 Profile Views
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rakib2062&label=Profile%20views&color=0e75b6&style=flat" alt="rakib2062 profile views">
+</p>
+
+---
+
+## 🧑‍💻 Fun Fact
+💡 *I write code not only to solve problems but to create magic!* ✨
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <strong>Let's Connect:</strong><br>
+  <a href="https://linkedin.com/in/rakib-hassan" target="_blank">LinkedIn</a> |
+  <a href="https://twitter.com/rakib" target="_blank">Twitter</a> |
+  <a href="https://dev.to/rakib2062" target="_blank">Dev.to</a>
 </p>
