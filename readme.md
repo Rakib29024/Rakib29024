@@ -50,10 +50,15 @@
 </p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rakib2062&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rakib2062&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rakib2062&theme=github_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rakib2062&theme=github_dark)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakib2062&layout=compact&theme=radical" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api?username=rakib2062&show_icons=true&theme=radical" alt="GitHub Stats"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakib2062&theme=radical" alt="GitHub Streak"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rakib2062&theme=radical" alt="Profile Summary"/>
+<img src="https://github-profile-trophy.vercel.app/?username=rakib2062&theme=radical&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=rakib2062&theme=radical" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=rakib2062&theme=radical" alt="Wakatime Stats"/>
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=rakib2062&repo=awesome-project&theme=radical" alt="Pinned Repo"/>
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=rakib2062&theme=github-compact" alt="Activity Graph"/>
 
 
 ---
